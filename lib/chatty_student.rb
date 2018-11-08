@@ -1,6 +1,6 @@
 class ChattyStudent 
   def hello
-    return "Hi, my name is Kimberly! My mom always says that I'm a real live wire."
+    return "Hey there! I'm so excited to learn stuff. How are you doing today? I'm okay, but I'm kind of tired...., it was so crazy! What, you don't want any spoilers? Okay well let me just tell you who died..."
   end 
   
   def raise_hand 
