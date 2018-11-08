@@ -7,8 +7,7 @@ class ChattyStudent
     x = 0 
     while x < 10 
     puts "Pick me!"
-    x 
-    += 1 
+    x += 1 
   end 
   end 
   
