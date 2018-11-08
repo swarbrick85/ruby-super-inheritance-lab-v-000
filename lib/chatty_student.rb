@@ -5,15 +5,15 @@ class ChattyStudent
   
   def raise_hand 
     puts "Pick me! 
-    Pick me! 
-    Pick me! 
-    Pick me! 
-    Pick me! 
-    Pick me! 
-    Pick me! 
-    Pick me! 
-    Pick me! 
-    Pick me!"
+Pick me! 
+Pick me! 
+Pick me! 
+Pick me! 
+Pick me! 
+Pick me! 
+Pick me! 
+Pick me! 
+Pick me!"
   end 
   
   
