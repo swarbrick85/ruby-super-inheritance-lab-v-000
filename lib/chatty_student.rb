@@ -4,15 +4,12 @@ class ChattyStudent
   end 
   
   def raise_hand 
-    puts "Pick me! 
-Pick me! 
-Pick me! 
-Pick me! 
-Pick me! 
-Pick me! 
-Pick me! 
-Pick me! 
-Pick me!"
+    x = 0 
+    while x < 10 
+    puts "Pick me!"
+    x 
+    += 1 
+  end 
   end 
   
   
