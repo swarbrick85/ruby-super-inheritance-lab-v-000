@@ -12,7 +12,6 @@ Pick me!
 Pick me! 
 Pick me! 
 Pick me! 
-Pick me! 
 Pick me!"
   end 
   
